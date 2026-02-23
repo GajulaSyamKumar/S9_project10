@@ -11,7 +11,7 @@ function App() {
         <span className="badge">UI Demo</span>
 
         {/* Title */}
-        <h1 className="title">Vite + React</h1>
+        <h1 className="title">2500030008 + G Syam Kumar</h1>
 
         {/* Subtitle */}
         <p className="subtitle">
